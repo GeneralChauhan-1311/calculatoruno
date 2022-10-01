@@ -1,0 +1,24 @@
+{
+  "name": "calculatoruno",
+  "version": "1.0.0",
+  "description": "Simple App made to learn logic building in JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralChauhan-1311/calculatoruno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeneralChauhan-1311/calculatoruno/issues"
+  },
+  "homepage": "https://github.com/GeneralChauhan-1311/calculatoruno#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
